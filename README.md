@@ -9,10 +9,10 @@
 #
 
 <p align="center">Estudante de Engenharia de Software na PUC Minas. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Com gosto por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
-  
+ 
 #
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+<img align="right" alt="" height="360px" src="./src/study.gif">
 
 <h3 align="left">Entre em contato!</h3>
 
