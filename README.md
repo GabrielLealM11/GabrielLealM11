@@ -43,6 +43,15 @@
 </div>
 
 
+### My GitHub Stats
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu_username&show_icons=true&count_private=true&hide_title=true)
+
+### Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_username&layout=compact&hide_title=true)
+
+
 #
 
 <picture align="center">
